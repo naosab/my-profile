@@ -19,10 +19,24 @@ h2 {
 }
 
 h5 {
-	text-align: left
+	text-align: justify;
+	font-weight: normal
 
 }
 
+h6{text-align: left;
+
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: normal
+}
 
 a {
 	font-family: "Roboto";
